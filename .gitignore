@@ -1,0 +1,16 @@
+...existing code...
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtualenv
+my_venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
